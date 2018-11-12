@@ -235,6 +235,7 @@ that I became truly resigned to the Lord's will,
 it appearing to me as if my peace was made with him.
 May I ever live under a sense of his divine mercy, and regard to my poor soul.
 
+[.offset]
 +++[+++This coincides with a similar expression in a letter to his wife, dated Settle,
 14th of second month, 1758, namely, "`Although I am low in body and mind,
 I am strong and rich in faith;
@@ -445,9 +446,13 @@ and is of singular service in this place: she had at this meeting good service.
 +++[+++The following is a letter written not long
 afterwards by Barbara Everard to Joseph Oxley.]
 
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Ashwell, 9th of Seventh month, 1760.
 
+[.salutation]
 Loving friend,
 
 This with my love to thee and thy loving wife,
@@ -500,7 +505,10 @@ to whom be glory both now and for ever, amen!
 My uncle joins with me in love to thee and thy loving wife,
 our love is also to all sincere and true-hearted Friends.
 
+[.signed-section-signature]
 Barbara Everard.
+
+--
 
 Fourth-day was at Statfold, a small, hard, laborious meeting,
 but witnessed the Divine presence to sustain me, and I hope I was in the way of my duty.
@@ -603,4 +611,3 @@ of which be thou mindful, and in so doing thou wilt be esteemed no loiterer, nor
 but moving with stability; and walking consistently, according to the leadings of Truth,
 will add strength unto the minister,
 and honour and praise unto Him that hath thus called us.
-

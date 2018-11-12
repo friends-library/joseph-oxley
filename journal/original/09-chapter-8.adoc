@@ -31,6 +31,8 @@ yet I experienced his living presence to be with me on the wide ocean.
 
 +++[+++The following is an extract from a letter he wrote to his wife while on the voyage.]
 
+[.embedded-content-document.letter]
+--
 
 "`I received thine of the 27th of seventh month, at Portsmouth,
 but being called to go on board immediately, had not time to answer it,
@@ -50,6 +52,8 @@ causing thankfulness in my mind for the present visitation wherewith they are vi
 and am bound in prayer for them to the Fountain of inexhaustible goodness,
 that they may so run as to endure to the end,
 and at length be saved with an everlasting salvation.`"
+
+--
 
 Our cabin passengers were many, chiefly military officers,
 who carried themselves very respectfully towards me, which I esteemed no small favour.
@@ -127,6 +131,10 @@ Johann Christopher Kunze, the German preacher,
 had repeatedly requested that I would write something in his book,
 and after deliberately considering thereon, I had freedom to write as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Esteemed friend.
 
 As thou desired I would write a few lines in thy book,
@@ -144,7 +152,10 @@ May his everlasting arm of Divine strength surround you,
 and protect and bless you in every good word and work,
 is the fervent prayer of thy affectionate friend,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 On the 20th of ninth month we made soundings, supposed to be abreast Block Island,
 the next day we saw Long Island, and the day following we came up to New York,
@@ -200,11 +211,19 @@ whose wife is the daughter of that eminent worthy Thomas Chalkley;
 she is a reputable Friend, and has a family of promising children:
 returned the same evening to the city.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Oxley to John Oxley.
 
+[.signed-section-context-open]
 Philadelphia, 8th of Tenth month, 1770.
 
-Dear and well-beloved brother, I wrote my dear wife at my landing at New York,
+[.salutation]
+Dear and well-beloved brother,
+
+I wrote my dear wife at my landing at New York,
 on the 30th ult., or thereabout, and from thence passing to Philadelphia,
 partook of the closing sittings of their Yearly Meeting,
 which was much to my satisfaction, edification and comfort.
@@ -269,10 +288,14 @@ that our children may be his children, and our God their God.
 Remember me in thy nearest approaches, that my faith fail not; when thou writest,
 advise and exhort me as best wisdom directs.
 
+[.signed-section-closing]
 In that love which changeth not, I affectionately salute thee,
 and remain thy loving brother,
 
+[.signed-section-signature]
  Joseph Oxley.
+
+--
 
 +++[+++After another little tour of one hundred and sixty-two miles into Chester county,
 he remarks.]
@@ -290,10 +313,16 @@ where Truth was witnessed in a good degree to be in dominion: the evening meetin
 which is constantly held every first-day, was exceedingly large,
 and to a good degree of satisfaction.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Oxley to His Daughter, and to His Wife,
 
+[.signed-section-context-open]
 Reading, in Berks County, Pennsylvania, 19th of Tenth month, 1770.
 
+[.salutation]
 My dear Kate,
 
 It has rather been for want of a suitable opportunity than desire,
@@ -350,8 +379,10 @@ and write freely the feelings of thy mind in religious experience,
 which may qualify me in making some return to further advantage.
 So with my very dear love to all, I remain most affectionately thy loving father,
 
+[.signed-section-signature]
 Joseph Oxley.
 
+[.salutation]
 My dearest companion and loving wife.
 
 Though I have written divers times of late to thyself, my brother, and others,
@@ -387,9 +418,14 @@ discharge from Him who hath set his servant to work,
 that if ever we meet again it may be in joy and not in sorrow.
 My companion, and John Pemberton and wife, who are very kind to me,
 desire their love to thee.
+
+[.signed-section-closing]
 From thy loving husband,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 The evening before, we had the company of several Indians, about twenty, who,
 with many others,
@@ -399,6 +435,9 @@ which is not uncommon for them to do;
 and many Friends met them at the house of our friend John Pemberton,
 whose brother James had collected some presents of sundry kinds for them,
 which he delivered, after making, or reading the following declaration:
+
+[.embedded-content-document.address]
+--
 
 "`Brethren, we heard with love what you said to us the other day,
 and it has reached our hearts.
@@ -435,6 +474,8 @@ Brothers, we have got a few small things which we give you as a token of our lov
 and we wish you a safe journey home,
 and desire our love to our brothers the Indians in the country.`"
 
+--
+
 I observed our friend James Pemberton in the course of his reading over the declaration,
 that at the opening or finishing of a paragraph,
 he generally presented a belt or string of wampum,
@@ -467,6 +508,8 @@ it appeared to us to be our concern to continue together for the present.
 
 +++[+++John Pemberton soon after this date thus writes to Mary Oxley:]
 
+[.embedded-content-document.letter]
+--
 
 "`I received a letter lately from thy husband, in which he says,
 that he and his companion are favoured to meet with the ownings of
@@ -479,3 +522,4 @@ knowing the diffidence and rather backwardness of thy beloved spouse.
 They spent a short time in this city very agreeably,
 being much united to the spirits of many here.`"
 
+--

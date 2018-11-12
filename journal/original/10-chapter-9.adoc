@@ -66,8 +66,13 @@ which so affected them, as to make it necessary for them to break off their conn
 We then rode twenty-five miles to Beaverdam, at which place lives our kind friend,
 Thomas Pleasants, where we rested two days, writing letters, etc.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Beaverdam, 7th of Twelfth month, 1770.
 
+[.salutation]
 My dear and loving wife,
 
 Opportunity has not yet favoured so as to receive a letter from thee,
@@ -131,7 +136,10 @@ even as it is with you.`"
 The salutation of my endeared love is again unto you all, in which my companion joins,
 and I remain thy loving husband,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 The 13th we forded over a river called Appomattox,
 and got well to South river on sixth-day evening;
@@ -303,8 +311,13 @@ The soil is very good, and air pleasant:
 a great deal of tobacco and Indian corn is raised in this province,
 which employs great numbers of Negro slaves.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Petersburg, in Virginia, 14th of Third month, 1771.
 
+[.salutation]
 My dear wife,
 
 I have not yet received any letters from thee,
@@ -405,9 +418,14 @@ I am, through the Lord's goodness in a good degree of health, which I esteem a f
 having lain many nights in the woods:
 I hope I have got the worst of the journey over respecting the outward
 travel it is likely to be six weeks before I can reach Philadelphia.
+
+[.signed-section-closing]
 I remain in great affection thy loving husband,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 On second-day, the 25th of third month, we crossed Potomac river in a boat,
 being three miles wide; and next day rode to Piscataway,
@@ -491,7 +509,8 @@ where she now resides, in great reputation.
 +++[+++The editor trusts the following extract from James Gough's MS. Journal,
 will be acceptable to his readers.]
 
-
+[quote]
+____
 "`I was accompanied by my dear friend Susanna Lightfoot, then Hatton,
 to such meetings as she could get out to attend.
 She was a servant to Ruth Courtney,
@@ -577,6 +596,7 @@ In the interim, a rich Friend of Waterford died,
 and left her fifteen pounds per annum during her life.
 After her return from America, Thomas Lightfoot, a Friend in good esteem,
 followed her to Waterford, and married her.`"
+____
 
 First-day, the 21st, was at Uwchland, which was very large, and to good satisfaction;
 second-day came to Philadelphia, where I received many letters from my wife and children,
@@ -596,8 +616,13 @@ on seventh-day I went with my friend Benjamin Swett to his house at Burlington,
 his wife as well as himself in the ministry; they were indeed,
 affectionately loving and kind to me, and I was much better for being there.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 26th of Fourth month, 1771.
 
+[.salutation]
 My dearly beloved wife,
 
 I returned to this city the 23d inst.
@@ -719,9 +744,13 @@ your Monthly Meeting in a collective capacity,
 whom I love in the Lord Jesus Christ; grace, mercy, and peace be with them and thee;
 let them know I am well, and fully resigned to the disposal of the Divine will.
 
+[.signed-section-closing]
 From thy loving husband,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 First-day, 28th, was at Burlington meeting;
 there were also from Philadelphia Sarah Morris and Joyce Benezet,
@@ -749,4 +778,3 @@ First-day, 5th of fifth month, attended all the three meetings in the city.
 Second-day came on the Quarterly Meeting for business,
 which was entered upon after a solid meeting for worship,
 and conducted with becoming condescension and brotherly affection.
-

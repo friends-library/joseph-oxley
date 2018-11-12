@@ -1,4 +1,4 @@
-[quote.scripture, , Gen. 53:19]
+[quote.epigraph, , Gen. 53:19]
 ____
 I know him, that he will command his children and his household after him.
 ____

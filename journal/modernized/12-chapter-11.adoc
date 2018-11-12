@@ -123,9 +123,14 @@ so that he had not freedom to continue his seat in that house; he, as also his w
 are steady valuable Friends, and he himself waited on his guests at table,
 as one being redeemed from all worldly pomps and honours.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Shrewsbury, 7th of Tenth month, 1771.
 
-My dearly-beloved wife.
+[.salutation]
+My dearly-beloved wife,
 
 Your kind and affectionate epistle of 23rd of seventh month,
 I have received with the usual marks of the loving and faithful wife;
@@ -164,6 +169,8 @@ We have been favoured this day with a large and good meeting.
 Truth rose into dominion, and the Lord's great name became glorious,
 his own arm wrought salvation: the meeting ended in prayer and praising him,
 who is worthy forever!
+
+--
 
 Seventh-day, 2nd of tenth month, had a meeting at Hardwich or the Great Meadows,
 which was large, but gathered in so much disorder as to make it quite burdensome;
@@ -351,6 +358,8 @@ in the way of his requirings.
 
 +++[+++John Pemberton about this time writes thus to Mary Oxley:]
 
+[.embedded-content-document.letter]
+--
 
 "`Your dear husband has stepped along wisely, and has gained the love of Friends, and,
 indeed, it is a great blessing and mercy to be so preserved,
@@ -364,9 +373,14 @@ condescension is granted to the sincere in heart,
 who have nothing in view but the glory of God, and the good of souls,
 and that they may be found faithful, tends to support in seasons of secret mourning.`"
 
+--
+
 +++[+++The following is an extract of a letter from Joseph Oxley to his wife:]
 
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Philadelphia, 1st of First month, 1772.
 
 Since my last to you I have been visiting Pennsylvania and the Jerseys,
@@ -414,7 +428,10 @@ and our understanding and judgment ripened; thus we are fitted for service,
 some in one way, and some in another: therefore, live and walk in him,
 in whom you have believed.
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 The hard frost being now set in, stopped the navigation;
 I spent much of my leisure time in paying religious visits to Friends in their families,
@@ -543,7 +560,8 @@ who all expressed great joy and thankfulness at seeing me; and so it was to me,
 after an absence from them of about one year and nine months, in which time I travelled,
 by a moderate computation, thirteen thousand seven hundred and fifty-five miles.
 
-The End of Joseph Oxley's Journal.
+[.alt.centered]
+=== The End of Joseph Oxley's Journal.
 
 It does not appear that this humble-minded servant of the Lord Jesus Christ,
 continued his journal,
@@ -564,6 +582,12 @@ and to close the volume,
 by inserting a letter from his valued companion in ministerial labour and travel,
 Samuel Neale, addressed to his widow,
 on receiving the intelligence of his release from the probations of time.
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Extract of a Testimony
 
 "`Joseph Oxley was a man exemplary in conduct, and agreeable in conversation,
 honest in advice, charitable in sentiment, universal in benevolence,
@@ -587,8 +611,15 @@ no doubt, to him, an easy passage to a heavenly mansion.
 the 26th of the tenth month, 1775, in the sixty-first year of his age,
 and thirty-fourth of his ministry.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Neale to Mary Oxley.
 
+[.signed-section-context-open]
 Springmount, 19th of First month, 1776.
 
 About a month ago I heard of the removal of my truly near and dear companion,
@@ -659,8 +690,13 @@ the reward annexed is righteousness and peace.
 I salute you and them in near sympathy and affection, and remain,
 in the fellowship of Gospel love,
 
+[.signed-section-closing]
 Your nearly united friend,
 
+[.signed-section-signature]
 Samuel Neale.
 
+--
+
+[.the-end]
 The End

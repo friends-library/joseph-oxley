@@ -38,7 +38,7 @@ which it is not necessary to particularize,
 except that he mentions meeting with Philip Hasleton, at Moorsum, in Yorkshire,
 a very ancient Friend and minister,
 who had formerly travelled in the service of Truth with Luke Cock; also at Raby,
-in DurJiarn, with Joshua Dickson,]
+in Durham, with Joshua Dickson,]
 who has been a valiant in the cause of righteousness in our Israel,
 having travelled through most parts of England, Ireland and America,
 and his labours of love were very acceptable.
@@ -136,6 +136,8 @@ yet rich in faith and good works.
 
 +++[+++Under the date of the 30th of ninth month, at Old Meldrum, he thus addresses his wife:]
 
+[.embedded-content-document.letter]
+--
 
 "`Thy very precious epistle, I received at Edinburgh, much to my comfort and edification.
 Thou art very acceptable to me in that which is most durable and lasting, wherein,
@@ -148,6 +150,8 @@ He is a rich and plenteous rewarder of all those
 that cheerfully serve and faithfully obey him.
 My cries are often to the Fountain of Goodness,
 that I may be endued with patience to the end of the present engagement.`"
+
+--
 
 Being now on our return, on seventh-day came to Ury,
 and had a meeting on first-day there, where the pure life was oppressed,
@@ -334,8 +338,11 @@ The Monthly Meeting to which he belonged thought his memory worthy of some testi
 and as my esteem was very great for him, not only as a near relation,
 but a father in Christian experience, I have thought fit to subjoin it.
 
-A Testimony from Wells Monthly Meeting in Norfolk,
-concerning our ancient and eminent friend, Edmund Peckover, deceased.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== A Testimony from Wells Monthly Meeting in Norfolk, concerning our ancient and eminent friend, Edmund Peckover, deceased.
 
 He was born at Fakenham in this county in the year 1695,
 and was the son of Joseph and Catherine Peckover,
@@ -493,6 +500,7 @@ and his remains were buried at Fakenham the 22nd,
 after a large and solemn meeting of relations, friends and neighbours.
 He died in the seventy-second year of his age, and the fifty-seventh of his ministry.
 
-Signed in and on behalf of our Monthly Meeting held at Wells, the 4th of fifth month,
-1768, by many Friends.
+[.signed-section-signature]
+Signed in and on behalf of our Monthly Meeting held at Wells, the 4th of fifth month, 1768, by many Friends.
 
+--
