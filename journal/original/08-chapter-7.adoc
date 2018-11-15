@@ -34,11 +34,16 @@ had somewhat on his mind of the like kind,
 and finding my concern to increase and grow stronger, it was upon me to write him,
 which I did as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Norwich, 6th of Seventh month, 1769.
 
+[.salutation]
 Dear friend, S. Neale,
 
-I HOPE thou wilt excuse the freedom I am taking,
+I hope thou wilt excuse the freedom I am taking,
 in communicating to thee the religious concern and exercise of mind I have been under,
 and which has long attended me, and yet is very weighty upon me;
 in which I trust I am in part become will-less and passive in the Great Master's hand,
@@ -70,7 +75,10 @@ contemptible creature;--but I dare not say further, for he knows what is best,
 to whom I recommend each of us for protection, and remain in unspeakable love,
 thy friend and brother in the unchangeable Truth,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 After having so done, my mind was made quite easy.
 My wife having a journey before her in the west, during her absence,
@@ -78,8 +86,13 @@ I was as if no concern had ever been,
 and it fared with me as though it would quite wear off.
 Somewhat more than a month afterwards I received a letter in answer to mine, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Glanmire, 2nd of Eighth month, 1769.
 
+[.salutation]
 My dearly beloved and esteemed friend, Joseph Oxley,
 
 I received thine in course of the 6th ult.,
@@ -125,7 +138,10 @@ our unity increase with our years,
 and we remain immovably bent to seek the city that hath foundations,
 which is the humble desire of thy nearly united friend,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 After passing these two letters,
 we left the result for our further weighty consideration, believing, if it were right,
@@ -149,6 +165,8 @@ which is the reward of the righteous for their obedience and faithful labours.
 evinces their union of labour and earnest desire
 for the promotion of the cause of Truth.]
 
+[.embedded-content-document.letter]
+--
 
 I cannot help adding before I conclude,
 that my dear wife may well weigh her concern now she is out,
@@ -166,13 +184,21 @@ so I hope thou wilt be careful to discharge thyself honestly in the sight of God
 and faithfully before his people, that thy latter end may be crowned with eternal peace.
 From thy loving husband and fellow-labourer in the Gospel of our Lord Jesus Christ,
 
+[.signed-section-signature]
 Joseph Oxley,
+
+--
 
 Early in the following year I received a second letter from my friend Samuel Neale,
 which I think worthy of inserting, and is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Glanmire, 13th of First month, 1770.
 
+[.salutation]
 Dearly beloved friend,
 
 Since I wrote to thee, many months have elapsed.
@@ -223,9 +249,13 @@ My wife joins me in the tender of true affection to thee and thine;
 she seems passive to the Divine will,
 if her husband should be called from her in this service.
 
+[.signed-section-closing]
 I remain thy nearly united friend,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 It was no small comfort to my mind to find a Friend so concerned,
 and one with whom I had such close unity and sweet fellowship.
@@ -238,8 +268,13 @@ feelings and growth in Christian experience.
 After receiving two letters from my dear friend in Ireland,
 it was incumbent on me to send him somewhat, as under.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Norwich, 1st of Second month, 1770.
 
+[.salutation]
 Esteemed friend and brother,
 
 I have before me both thy kind favours of the 2nd of eighth month, last year,
@@ -311,9 +346,14 @@ I have been as bad, or worse, scarcely able to keep my understanding perfect.
 Thou mayest now judge of my feelings, and of my unity with thee.
 My wife joins me in very dear love to thee and thy dear wife,
 and expecting soon to hear from thee again,
+
+[.signed-section-closing]
 I remain thy brother in the unchangeable Truth,
 
- Joseph Oxley.
+[.signed-section-signature]
+Joseph Oxley.
+
+--
 
 Some few weeks afterwards I received another letter from him,
 of his intentions of being at the ensuing Yearly Meeting at London,
@@ -328,9 +368,13 @@ which was done and recommended to the Quarterly Meeting for their approbation al
 
 +++[+++Samuel Neale's letter is as follows.]
 
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Glanmire, 21st Second month, 1770.
 
+[.salutation]
 Endeared friend, Joseph Oxley,
 
 A few days ago I received thy acceptable letter of the 1st inst.,
@@ -393,7 +437,10 @@ Present my dear love to thy dear partner, and brother John,
 whose sympathy with thee will be a strength I doubt not.
 I remain thy nearly united friend and brother,
 
+[.signed-section-signature]
 Samuel Neale.
+
+--
 
 In the third and fourth months of this year were removed from us by death,
 John and Samuel Gurney, of this city, sons of our worthy and honourable deceased friends,
@@ -428,6 +475,9 @@ who deservedly mourn their unspeakable loss.
 I received another letter from my dear friend, Samuel Neale, dated 14th of fifth month,
 the substance of which is as follows:
 
+[.embedded-content-document.letter]
+--
+
 "`I for some time thought I should have met thee at London,
 and there have consulted with thee how and when to proceed.
 I was fully and freely given up to the Lord's disposing hand which way to turn,
@@ -436,6 +486,8 @@ and rather a draft of mind to go from my own country;
 some yet unsealed reasons may be the cause of this change,
 but from my own small experience, it is the sure way of moving,
 in the freedom and liberty which Truth gives.`"
+
+--
 
 I now found myself under great difficulty how to proceed,
 and sought with great earnestness,
@@ -452,10 +504,13 @@ and reading over my certificates from Norwich, a minute was made,
 and some Friends chosen to draw up a certificate for the meeting's approbation,
 which was done and is as follows:
 
-From our Yearly Meeting of ministers and elders, held in London,
-by adjournments from the 2nd of sixth month, to the 11th of the same inclusive, 1770.
-To Friends and brethren in America.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== From our Yearly Meeting of ministers and elders, held in London, by adjournments from the 2nd of sixth month, to the 11th of the same inclusive, 1770. To Friends and brethren in America.
+
+[.salutation]
 Dear friends.
 
 Our esteemed friend, Joseph Oxley,
@@ -473,7 +528,10 @@ and that he may be favoured to return in due time to his
 family and friends here with the reward of solid peace,
 we remain, with the salutation of brotherly love, your affectionate friends.
 
+[.signed-section-signature]
 Signed in and on behalf of our said meeting, by many Friends.
+
+--
 
 These testimonials from Monthly, Quarterly, and Yearly Meetings,
 greatly increased my care and concern,
@@ -511,9 +569,13 @@ In this state of mind I continued peaceful and easy, and greater freedom to go t
 than by the way of Cork, and ordered myself accordingly; and when I returned from London,
 I wrote to my friend, Samuel Neale, as follows:
 
-Norwich.
-14th of Sixth month, 1770.
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
+Norwich. 14th of Sixth month, 1770.
+
+[.salutation]
 Esteemed friend, S. Neale,
 
 I have before me thy kind favour of the 14th ult., which I have read over and over again,
@@ -570,5 +632,7 @@ that they were lovely and pleasant in their lives, and in their death were not d
 My dear wife and brother join me in dear love to thee and thy dear wife,
 and such as may inquire after thy affectionate friend,
 
- Joseph Oxley.
+[.signed-section-signature]
+Joseph Oxley.
 
+--

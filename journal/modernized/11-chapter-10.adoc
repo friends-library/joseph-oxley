@@ -13,9 +13,13 @@ and hoped others would follow our example under the like circumstances.
 
 +++[+++The following is an extract of a letter from William Brown to Mary Oxley.]
 
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Philadelphia, 6th of Fifth month, 1771.
 
+[.salutation]
 Dear friend, Mary Oxley,
 
 It is in my mind to visit you with a few lines,
@@ -37,9 +41,14 @@ and though your honourable companion thinks himself a little man every way,
 yet it is the pleasure of Him that called him to the work of the ministry,
 and separated him to this part of the service, to give him part with the great,
 and a name with his princes in Israel.
+
+[.signed-section-closing]
 I affectionately salute you, who am your loving friend,
 
+[.signed-section-signature]
 William Brown.
+
+--
 
 Third-day attended their youth's meeting the public service fell on Sarah Morris,
 Samuel Nottingham, Isaac Andrews, and my companion: I thought it a favoured meeting.
@@ -102,10 +111,16 @@ which in the end will I hope prove successful.
 These meetings being over, I finished my visit to the island, which,
 however it might prove to my friends, was very much to my satisfaction and peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Benjamin Swett to Mary Oxley.
 
+[.signed-section-context-open]
 Burlington, 5th of Seventh month, 1771.
 
+[.salutation]
 Dear friend,
 
 As every instance of attention to you, though from a distant junior brother,
@@ -120,7 +135,7 @@ which God has pitched and not man.
 Being thus called to act under so great a Master,
 I hope the time of his absence will be alleviated by the reflection thereof;
 and I make no doubt but he that promised to be a Father to the fatherless,
-will abundantly fulfil his gracious promise to the children of my dear friend,
+will abundantly fulfill his gracious promise to the children of my dear friend,
 during the privation of so tender a parent,
 and that He will be as a husband to you in this your temporary state of widowhood.
 As I am convinced you are well acquainted with the
@@ -141,7 +156,10 @@ I doubt not the fruition of that account will afford him still greater satisfact
 I am with the united love of my wife, though personally a stranger,
 to you and your family, your affectionate friend and well-wisher,
 
+[.signed-section-signature]
 Benjamin Swett, Jr.
+
+--
 
 Third-day returned to New York in company with other Friends,
 at which place was a meeting appointed for our friends, Timothy Davis and William Home.
@@ -190,6 +208,8 @@ the Lord for his goodness to us this day.
 
 +++[+++In a letter to his brother John Oxley, he remarks:]
 
+[.embedded-content-document.letter]
+--
 
 Peter Davis was born at Dover in Old England,
 and was brought over into America in a state of infancy;
@@ -215,7 +235,10 @@ Once more my love to my endeared spouse, to my beloved children,
 whom the Lord in his love has blessed, to your dear self, etc.,
 from your affectionate brother,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 On third-day went on board a vessel, and set sail for Nantucket;
 we passed a place called Wood's Hole,
@@ -236,10 +259,15 @@ which was our principal view in going there at this time.
 
 +++[+++Fifth-day wrote the following letter to his wife.]
 
+[.embedded-content-document.letter]
+--
 
+[.signed-section-context-open]
 Nantucket, 2nd of Seventh month, 1771.
 
+[.salutation]
 My dear and loving wife,
+
 I take up my pen in order to essay something in answer to your
 two last letters received at Flushing on Long Island,
 dated the 5th and 20th of the second month;
@@ -276,9 +304,7 @@ I am through Divine favour in good health,
 a blessing which I covet may be the enjoyment of my dear wife, my children,
 relations and friends.
 
-My dearest companion,
-
-I have now to notice your affectionate address of the 20th of second month,
+My dearest companion, I have now to notice your affectionate address of the 20th of second month,
 which was a mixture of sorrow and joy,
 but as I had heard of the departure of dear sister Oxley,
 so I was the better prepared to receive it in that full manner as represented by you.
@@ -337,7 +363,10 @@ Think of me, my dear wife, relations and friends, as I do of you more often than
 and in a state of resignedness to the Divine will,
 do I once more salute my dear wife and affectionate children; yours till death.
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 Sixth-day opened their Yearly Meeting,
 first holding a select meeting at eight in the morning, which was very small;
@@ -511,12 +540,13 @@ At their last Yearly Meeting, held at Newport on Rhode Island, for New England,
 a proposition was made to address the governor, who was then lately entered into office,
 which after weighty consideration was agreed to, and is as follows:
 
-To Thomas Hutchinson,
-Governor-in-chief in and over the Province of the Massachusetts bay, in New England.
-The Address of the people called Quakers, at their General or Yearly Meeting for worship,
-and transacting the affairs of our Society, held on Rhode Island for New England,
-by adjournments from the 13th to the 17th day of the sixth month, 1771, inclusive.
+[.embedded-content-document.address]
+--
 
+[.blurb]
+=== To Thomas Hutchinson, Governor-in-chief in and over the Province of the Massachusetts bay, in New England. The Address of the people called Quakers, at their General or Yearly Meeting for worship, and transacting the affairs of our Society, held on Rhode Island for New England, by adjournments from the 13th to the 17th day of the sixth month, 1771, inclusive.
+
+[.salutation]
 May it please the Governor,
 
 As many of us have had an opportunity of observing your conduct in the
@@ -534,12 +564,14 @@ and where any of us are or may be restricted thereby within your jurisdiction,
 we entreat your assistance and protection.
 With sincere love to you, we conclude, and remain your assured friends.
 
- Signed in and on behalf of our said Yearly Meeting, by Isaac Lawton, Clerk.
+[.signed-section-closing]
+Signed in and on behalf of our said Yearly Meeting by,
 
-[.asterism]
-'''
+[.signed-section-signature]
+Isaac Lawton, Clerk.
 
-The Governor`'s Answer.
+[.blurb]
+=== The Governor`'s Answer.
 
 "`I desire it may be made known to the Friends
 within the several governments of New England,
@@ -550,6 +582,8 @@ their General Yearly Meeting do not live within my own government.
 I shall always delight in confirming and cultivating the orderly benevolent
 disposition of the Friends among the several societies of that denomination,
 and among all other Christian societies, as far as my influence may extend.`"
+
+--
 
 Very different now,
 to what it was in the days when Governor Endicott presided over this province!
@@ -564,8 +598,13 @@ but in deep reverence and fear worship him, our great Deliverer,
 who powerfully wrought in the king's heart to the setting at
 liberty those sons and children of the morning!
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Boston, 8th of Eighth month, 1771.
 
+[.salutation]
 My dear wife and affectionate children,
 
 I am thankful I am now making my return back again toward Philadelphia,
@@ -613,7 +652,10 @@ The first opportunity I intend to write to my dear brother, who is often in my t
 my love to him, and all our nearest and next kindred, relations and friends everywhere,
 from, my dear, your affectionate husband, and dear children, your affectionate father,
 
+[.signed-section-signature]
 Joseph Oxley.
+
+--
 
 We came from Boston to Lancaster, Leicester, Uxbridge and Brickhouse,
 where we had a large meeting and silent,
@@ -637,4 +679,3 @@ and much more to my own satisfaction than in the southern part of this continent
 This country, called New England, is more cleared, and thickly inhabited than Maryland,
 Virginia, or the Carolinas; the chief produce is Indian corn, some oats and rye,
 but very little wheat.
-

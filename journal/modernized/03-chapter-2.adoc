@@ -1,6 +1,6 @@
 == Chapter II.
 
-I NOW began to have an inclination in my mind to change my condition;
+I now began to have an inclination in my mind to change my condition;
 in the prosecution of which, sundry remarkable occurrences befalling,
 make it necessary to insert more largely than otherwise I should have done.
 A sober virtuous young woman of a reputable family struck my attention:
@@ -103,7 +103,7 @@ to live in fear and in subordination to his all-wise providence, and to say,
 "`Your will be done.`"
 When I had lived thus happily about three months, my dear grandmother was taken ill,
 and grew weaker and weaker, and in a little time was confined to her room.
-As I was one day sttting by her, she spoke very awfully of eternity,
+As I was one day sitting by her, she spoke very awfully of eternity,
 and what a solemn thing it was to die, and said unto me, "`My dear,
 I would have you to be faithful to that which it may please the Lord to require of you.
 It may be that you may have to bear a testimony in this place; and if it should be so,
@@ -113,6 +113,9 @@ in the seventy-fifth year of her age.
 
 The following is a testimony from the Monthly Meeting of Wells, in Norfolk,
 concerning her.
+
+[.embedded-content-document.testimony]
+--
 
 "`We think it incumbent upon us to say something
 in commemoration of so good and valuable a woman,
@@ -166,6 +169,8 @@ on the 1st day of the eighth month,
 and was attended to the grave by great numbers of Friends and others.
 She was born about 1666 and died in the year 1741,
 and was a minister about forty-six years.`"
+
+--
 
 I was very much affected by this great loss, both in respect to my outward settlement,
 and because my grandmother was a choice companion and counsellor;
@@ -247,4 +252,3 @@ whose living presence was experienced to our comfort and edification.
 Having conducted him safe up to London, he went on board the vessel soon after,
 and I returned with the plenteous reward of peace in my own bosom,
 for having attended this good man so far on his journey.
-

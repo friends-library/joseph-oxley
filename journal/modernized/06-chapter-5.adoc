@@ -1,6 +1,6 @@
 == Chapter V.
 
-I HAD now been at Norwich about sixteen years,
+I had now been at Norwich about sixteen years,
 during which time our meetings had been evidently increasing, and still continue so,
 not only as to numbers amongst ourselves, but also from amongst those of other societies,
 who have been convinced of the blessed Truth, and joined us in religious fellowship;
@@ -22,7 +22,7 @@ that the Lord in his goodness has been pleased to increase the number,
 that I think there are of men and women not less than sixteen,
 who appear in public testimony in an acceptable manner.
 I wish we may all be preserved through the various
-trials and vicissitudes of life unreproachable,
+trials and vicissitudes of life irreproachable,
 and stand faithful to the end in the testimony of Jesus.
 
 In the year 1761,
@@ -80,7 +80,8 @@ but very loving and open-hearted to travelling Friends.
 I attended their week-day meeting the day I landed, which was small,
 and I thought not the most profitable.
 
-+++[+++n a letter to his wife, after speaking of Samuel Judd's kind attentions to him, he says,
+[.offset]
++++[+++In a letter to his wife, after speaking of Samuel Judd's kind attentions to him, he says,
 "`I am in a very low, needy state,
 yet well satisfied I am in the way of my duty to Him whose
 judgments and mercies cause us both to fear and love him.
@@ -177,6 +178,7 @@ Fourth, fifth, and sixth-days, had meetings at Newtown, Ballitore and Athy,
 at all which places Divine Goodness owned us by the breaking of bread,
 to our inward comfort and spiritual consolation.
 
+[.offset]
 +++[+++From Ballitore he writes:--"`Oh! how does my poor weary soul travel from place to place,
 and from one meeting to another, seeking the living amongst the dead.
 There is in most places great plainness and great dryness, emptiness and show:
@@ -190,7 +192,6 @@ but my spiritual exercise is greater than ever yet I have met with; yet,
 blessed be the name of the Lord, when I am near sinking and almost ready to faint,
 he is pleased to appear, to uphold and strengthen,
 to refresh and comfort his poor tried servant!`"]
-
 
 First-day, the 8th, my companion James Toomey, being now returned,
 I was joined by that eminent worthy elder, Abraham Shackleton,
@@ -360,4 +361,3 @@ but has been graciously pleased to bestow a measure of
 the same good Spirit on my dear children,
 by which they not only believe in the Truth, but also are concerned to walk in it;
 and this I esteem far greater riches than the increase of worldly inheritance.
-
